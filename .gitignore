@@ -21,20 +21,15 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
-*.ccsproject
 *.launch
-*.xml
 *.out
 Debug/makefile
 *.obj
-*.prefs
 *.mk
 *.d
-*.ccxml
 tm4c123gh6pm_startup_ccs.c
-*.project
 tm4c123gh6pm.cmd
-*.cproject
 targetConfigs/readme.txt
 *.map
 Debug/ccsObjs.opt
+Debug/*
